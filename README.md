@@ -7,6 +7,7 @@
   - [Promoting Open-source Tools](#promoting-open-source-tools)
   - [Desktop Application Development](#desktop-application-development)
   - [Developer Roadmap](#developer-roadmap)
+  - [AWS Learning Resources](#aws-learning-resources)
   - [Contributors](#contributors)
 
 ## Promoting Open-source Tools
@@ -20,6 +21,9 @@
 
 ## Developer Roadmap
 - [Roadmap.sh](https://roadmap.sh/)
+
+## AWS Learning Resources
+- [AWS Skill Builder](https://skillbuilder.aws/)
 
 ## Contributors
 
