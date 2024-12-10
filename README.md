@@ -24,6 +24,7 @@
 
 ## AWS Learning Resources
 - [AWS Skill Builder](https://skillbuilder.aws/)
+- [AWS Free Tier](https://aws.amazon.com/free/)
 
 ## Contributors
 
