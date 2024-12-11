@@ -9,6 +9,7 @@
   - [Developer Roadmap](#developer-roadmap)
   - [AWS Learning Resources](#aws-learning-resources)
   - [Typing Games](#typing-games)
+  - [Learn Programming Skills](#learn-programming-skills)
   - [Contributors](#contributors)
 
 ## Promoting Open-source Tools
@@ -29,6 +30,9 @@
 
 ## Typing Games
 - [ZType](https://zty.pe/)
+
+## Learn Programming Skills
+- [Hackerrank](https://www.hackerrank.com/)
 
 ## Contributors
 
