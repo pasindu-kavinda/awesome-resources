@@ -8,6 +8,7 @@
   - [Desktop Application Development](#desktop-application-development)
   - [Developer Roadmap](#developer-roadmap)
   - [AWS Learning Resources](#aws-learning-resources)
+  - [Typing Games](#typing-games)
   - [Contributors](#contributors)
 
 ## Promoting Open-source Tools
@@ -25,6 +26,9 @@
 ## AWS Learning Resources
 - [AWS Skill Builder](https://skillbuilder.aws/)
 - [AWS Free Tier](https://aws.amazon.com/free/)
+
+## Typing Games
+- [ZType](https://zty.pe/)
 
 ## Contributors
 
