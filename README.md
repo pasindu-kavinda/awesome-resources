@@ -1,4 +1,4 @@
-# Awesome Resources
+# Awesome Resources [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 ## Contents
 
