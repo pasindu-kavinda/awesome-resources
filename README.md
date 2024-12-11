@@ -2,7 +2,7 @@
 
 ## Contents
 
-- [Awesome Resources](#awesome-resources)
+- [Awesome Resources ](#awesome-resources-)
   - [Contents](#contents)
   - [Promoting Open-source Tools](#promoting-open-source-tools)
   - [Desktop Application Development](#desktop-application-development)
@@ -10,6 +10,7 @@
   - [AWS Learning Resources](#aws-learning-resources)
   - [Typing Games](#typing-games)
   - [Learn Programming Skills](#learn-programming-skills)
+  - [Whiteboard Tools](#whiteboard-tools)
   - [Contributors](#contributors)
 
 ## Promoting Open-source Tools
@@ -35,6 +36,8 @@
 - [Hackerrank](https://www.hackerrank.com/)
 - [LeetCode](https://leetcode.com/)
 
+## Whiteboard Tools
+- [Excalidraw](https://excalidraw.com/)
 
 ## Contributors
 
