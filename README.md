@@ -11,6 +11,7 @@
   - [Typing Games](#typing-games)
   - [Learn Programming Skills](#learn-programming-skills)
   - [Whiteboard Tools](#whiteboard-tools)
+  - [Diagramming Tools](#diagramming-tools)
   - [Contributors](#contributors)
 
 ## Promoting Open-source Tools
@@ -38,6 +39,9 @@
 
 ## Whiteboard Tools
 - [Excalidraw](https://excalidraw.com/)
+
+## Diagramming Tools
+- [Eraser](https://www.eraser.io/)
 
 ## Contributors
 
