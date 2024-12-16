@@ -12,6 +12,7 @@
   - [Learn Programming Skills](#learn-programming-skills)
   - [Whiteboard Tools](#whiteboard-tools)
   - [Diagramming Tools](#diagramming-tools)
+  - [Infrastructure as Code Tools](#infrastructure-as-code-tools)
   - [Contributors](#contributors)
 
 ## Promoting Open-source Tools
@@ -42,6 +43,9 @@
 
 ## Diagramming Tools
 - [Eraser](https://www.eraser.io/)
+
+## Infrastructure as Code Tools
+- [Brainboard](https://www.brainboard.co/)
 
 ## Contributors
 
