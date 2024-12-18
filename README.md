@@ -13,6 +13,7 @@
   - [Whiteboard Tools](#whiteboard-tools)
   - [Diagramming Tools](#diagramming-tools)
   - [Infrastructure as Code Tools](#infrastructure-as-code-tools)
+  - [CRUD Generators](#crud-generators)
   - [Contributors](#contributors)
 
 ## Promoting Open-source Tools
@@ -46,6 +47,9 @@
 
 ## Infrastructure as Code Tools
 - [Brainboard](https://www.brainboard.co/)
+
+## CRUD Generators
+- [Filament](https://filamentphp.com/)
 
 ## Contributors
 
