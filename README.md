@@ -51,6 +51,7 @@
 
 ## CRUD Generators
 - [Filament](https://filamentphp.com/)
+- [Backpack](https://backpackforlaravel.com/)
 
 ## Online Code Editors
 - [Codepen](https://codepen.io/)
