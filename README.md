@@ -25,6 +25,7 @@
 - [Electron](https://electronjs.org/)
 - [.NET MAUI](https://dotnet.microsoft.com/en-us/apps/maui)
 - [Neutralinojs](https://neutralino.js.org/)
+- [Tauri](https://tauri.app/)
 
 ## Developer Roadmap
 - [Roadmap.sh](https://roadmap.sh/)
