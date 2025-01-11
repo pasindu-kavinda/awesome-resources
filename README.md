@@ -14,7 +14,8 @@
   - [Diagramming Tools](#diagramming-tools)
   - [Infrastructure as Code Tools](#infrastructure-as-code-tools)
   - [CRUD Generators](#crud-generators)
-  - [Onine Code Editors](#online-code-editors)
+  - [Online Code Editors](#online-code-editors)
+  - [Interactive CLI Tools \& Scripting Enhancements](#interactive-cli-tools--scripting-enhancements)
   - [Contributors](#contributors)
 
 ## Promoting Open-source Tools
@@ -57,6 +58,9 @@
 ## Online Code Editors
 - [Codepen](https://codepen.io/)
 - [StackBlitz](https://stackblitz.com/)
+
+## Interactive CLI Tools & Scripting Enhancements
+- [Gum](https://github.com/charmbracelet/gum/)
 
 ## Contributors
 
